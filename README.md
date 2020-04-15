@@ -7,9 +7,21 @@ Aí decide organizar seu instapaper, categorizando os links. E percebe que está
 
 Aí sempre que alguém entra na equipe precisa recuperar essa lista de coisas.
 
-Então vamos preparar logo um repositório por aqui pra já ter link pronto. :)
+Então vamos preparar logo um repositório por aqui pra já ter link pronto. :-)
 
-### Aviso
+#### Achei uma tradução supimpa do texto, cara!
+Abre uma issue me avisando. Coloco aqui com prazer! :-)
+
+#### O Link tá quebrado, cara!
+Abre uma issue me avisando. Se tiver um link atualizado, melhor ainda. Se nao, a gente vai atrás e tenta resgatar o texto. Se não der, paciência e removemos da lista. :-)
+
+#### Achei um texto que tu vai curtir, cara!
+Abre uma issue me avisando. Se achar maneiro eu leio logo ou coloco no `A Ler`. Mas não significa que vou achar interessante ou vou ler todas as sugestões. :-)
+
+#### Sua categorização não faz sentido, cara!
+Paciência. Tem 33 anos que tento entender minha mente pertubada e nunca consegui. :-)
+
+#### Aviso
 
 As opiniões dos textos não refletem necessariamente minha opinião no momento. Pode já ter sido e mudei de opinião, pode nunca ter sido mas achei o texto bacana, pode ser que nunca tenha tido uma opinião sobre o assunto.
 
