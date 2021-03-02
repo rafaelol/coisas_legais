@@ -1,7 +1,7 @@
 
 ## Textos legais sobre Bancos de Dados
 
-Algumas coisas podem estar um pouco desatualizadas, mas paciência. Se identificar que algo está muito desatualizado e tiver algum outro texto mais atualizado/melhor, removerei.
+Algumas coisas podem estar um pouco desatualizadas, mas paciência. Se identificar que algo está muito desatualizado e tiver algum outro texto mais atualizado ou melhor, me avisa que troco.
 
 #### Bancos Relacionais
 
