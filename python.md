@@ -21,6 +21,7 @@ Um condensado de coisas que li sobre python e achei interessante. Algumas coisas
 
 * [Is Python pass-by-reference or pass-by-value?](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
 * [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)
+* [Namespaces and Scope in Python](https://realpython.com/python-namespaces-scope/)
 
 
 #### Dicas gerais (ou: ainda não decidi como categorizar)
