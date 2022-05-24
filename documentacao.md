@@ -1,4 +1,4 @@
-## Textos legais sobre Documentação
+## Documentação de c
 
 * [The Documentation System](https://documentation.divio.com/)
 
