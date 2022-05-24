@@ -13,5 +13,7 @@ Os links nas seções `A ler` ainda nao foram lidos por mim porém parecem inter
 ### As seções
 
 [Banco de Dados](https://github.com/rafaelol/coisas_legais/blob/master/bd.md)
+
 [Documentação de Código e Sistemas](https://github.com/rafaelol/coisas_legais/blob/master/documentacao.md)
+
 [Python](https://github.com/rafaelol/coisas_legais/blob/master/python.md)
