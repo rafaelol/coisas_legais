@@ -31,6 +31,10 @@ Alguns argumentos contra o uso de "soft deletion" de linhas de tabela, apresenta
 
 * [The Unexpected Find That Freed 20GB of Unused Index Space](https://hakibenita.com/postgresql-unused-index-size)
 
+* [Postgres 15 improves UNIQUE and NULL](https://blog.rustprooflabs.com/2022/07/postgres-15-unique-improvement-with-null)
+
+Postgres 15 vai permitir que indexe valor NULL como único.
+
 ### Na Nuvem
 #### Cloud SQL (GCP)
 
