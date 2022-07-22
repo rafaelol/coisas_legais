@@ -10,6 +10,9 @@ Algumas coisas podem estar um pouco desatualizadas, mas paciência. Se identific
 ### Modelagem e implementações
 
 * [You might as well timestamp it](https://changelog.com/posts/you-might-as-well-timestamp-it)
+
+Alguns argumentos para substituir flags booleanas de estado por timestamps.
+
 * [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion)
 
 Alguns argumentos contra o uso de "soft deletion" de linhas de tabela, apresentando uma alternativa para manter o log de deleção.
