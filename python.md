@@ -17,6 +17,12 @@ Um condensado de coisas que li sobre python e achei interessante. Algumas coisas
 * [Mock vs MagicMock](https://stackoverflow.com/questions/17181687/mock-vs-magicmock)
 * [5 libs essenciais para testes unitários Python](https://blog.paulagrangeiro.com.br/5-libs-essenciais-para-testes-unit%C3%A1rios-python-f2ba8326e76a)
 
+#### Explicando a linguagem
+
+* [Data Classes in Python 3.7+ (Guide)](https://realpython.com/python-data-classes/)
+
+Um excelente texto de introdução a dataclasses, apresentando a notação inicial, comparando com a escrita padrão de classes (com init e outros dunders). Apresenta questões de valor default e algumas pegadinhas que podemos cair ao usar esses valores default.
+
 #### Detalhes internos da linguagem
 
 * [Is Python pass-by-reference or pass-by-value?](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
