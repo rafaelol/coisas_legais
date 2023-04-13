@@ -22,6 +22,7 @@ Um condensado de coisas que li sobre python e achei interessante. Algumas coisas
 * [Data Classes in Python 3.7+ (Guide)](https://realpython.com/python-data-classes/)
 
 Um excelente texto de introdução a dataclasses, apresentando a notação inicial, comparando com a escrita padrão de classes (com init e outros dunders). Apresenta questões de valor default e algumas pegadinhas que podemos cair ao usar esses valores default.
+
 Revisado em 12/04/2023
 
 #### Detalhes internos da linguagem
