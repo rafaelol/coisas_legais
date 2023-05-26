@@ -1,5 +1,5 @@
 
-## Textos legais sobre Bancos de Dados
+## Banco de Dados
 
 ### Teoria
 
