@@ -19,11 +19,17 @@ Um condensado de coisas que li sobre python e achei interessante. Algumas coisas
 
 #### Explicando a linguagem
 
+* [Python Classes: The Power of Object-Oriented Programming](https://realpython.com/python-classes/)
+
+Introdução ao uso de classes, convenções de nome, detalhes internos e de orientação a objetos. Explica bem a resolução do problema do diamante na linguagem.
+
+Revisado em 11/10/2023
+
 * [Data Classes in Python 3.7+ (Guide)](https://realpython.com/python-data-classes/)
 
 Um excelente texto de introdução a dataclasses, apresentando a notação inicial, comparando com a escrita padrão de classes (com init e outros dunders). Apresenta questões de valor default e algumas pegadinhas que podemos cair ao usar esses valores default.
 
-Revisado em 12/04/2023
+Revisado em 11/10/2023
 
 #### Detalhes internos da linguagem
 
@@ -31,6 +37,13 @@ Revisado em 12/04/2023
 * [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)
 * [Namespaces and Scope in Python](https://realpython.com/python-namespaces-scope/)
 
+#### Desenvolvimento
+
+* [SOLID Principles: Improve Object-Oriented Design in Python](https://realpython.com/solid-principles-python/)
+
+Explicação dos conceitos de SOLID com exemplos em python.
+
+Revisado em 11/10/2023
 
 #### Dicas gerais (ou: ainda não decidi como categorizar)
 * [How to Write Beautiful Python Code With PEP 8](https://realpython.com/python-pep8/)
