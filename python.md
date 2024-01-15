@@ -16,6 +16,23 @@ Um condensado de coisas que li sobre python e achei interessante. Algumas coisas
 * [Understanding the Python Mock Object Library](https://realpython.com/python-mock-library/)
 * [Mock vs MagicMock](https://stackoverflow.com/questions/17181687/mock-vs-magicmock)
 * [5 libs essenciais para testes unitários Python](https://blog.paulagrangeiro.com.br/5-libs-essenciais-para-testes-unit%C3%A1rios-python-f2ba8326e76a)
+* [Don’t mock Python’s HTTPX](https://www.b-list.org/weblog/2023/dec/08/mock-python-httpx/)
+
+Ao fazer testes que envolvem a lib httpx, não mocar e sim usar o que já existe na lib preparado para testes.
+
+Revisado em 15/01/2024
+
+* [“Don’t Mock What You Don’t Own” in 5 Minutes](https://hynek.me/articles/what-to-mock-in-5-mins/)
+
+Uma explicação sobre o conceito de fazer mock apenas de coisas que estão sendo desenvolvidas por você, evitando mocar coisas de terceiros no projeto.
+
+Revisado em 15/01/2024
+  
+* [Why your mock still doesn’t work](https://nedbatchelder.com/blog/202202/why_your_mock_still_doesnt_work.html)
+
+Uma lembrança para usar `autospec=True`
+
+Revisado em 15/01/2024
 
 #### Explicando a linguagem
 
